@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 
 <h2> Tech Stack</h2>
-<br>
 
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg
 "></code>
@@ -45,13 +44,15 @@ Here are some ideas to get you started:
 "></code>
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/go.svg
 "></code>
-
+<br>
 ## Tools & Other Languages
 
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/gitlab.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg
 "></code>
+<br>
+
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schwarltz&theme=radical)](https://github.com/anuraghazra/github-readme-stat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schwarltz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
