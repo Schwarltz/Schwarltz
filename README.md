@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - I'm currently a Software Engineering Undergraduate student at UNSW, Sydney.
 - A lot of my experience comes from web development using ReactJS.
-- I'm interested in full stack web development and hacking things together using scripts.
+- I'm interested in full stack web development and hacking random things together.
 - 📫 Email me at [henryhowork622@gmail.com](mailto:henryhowork622@gmail.com).
 
 
