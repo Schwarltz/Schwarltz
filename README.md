@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/github.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/gitlab.svg"></code>
 <code><img height="64" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/boostrap.svg"></code>
+<code><img height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <br>
 
 [![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schwarltz&theme=radical)](https://github.com/anuraghazra/github-readme-stat)
